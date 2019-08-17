@@ -138,6 +138,10 @@ body {
           animation-duration: 1s;
   -webkit-animation-timing-function: ease-out;
           animation-timing-function: ease-out;
+  /*
+        animation-delay: 3s;
+        animation-iteration-count: 3;
+        */
 }
 
 .heading-primary--sub {
@@ -1165,4 +1169,4 @@ body {
   width: 50%;
   padding: 6rem;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=main.css.map */
